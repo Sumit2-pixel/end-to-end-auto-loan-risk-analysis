@@ -48,7 +48,7 @@ The project uses four datasets representing different components of an auto loan
 
 ## Loss & Vintage Analysis
 
-![Loss & Vintage Analysis](powerbi/images/loss-vintage-analysis.png)
+![Loss & Vintage Analysis](powerbi/images/loss & vintage-analysis.png)
 
 ---
 
